@@ -31,8 +31,8 @@ p {
 .header {
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
-    background-position: center top;
+    background-size: cover;
+    background-position: center;
 }
 .link-button {
     text-decoration: none;
@@ -45,8 +45,8 @@ p {
 .biography {
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
-    background-position: center top;
+    background-size: cover;
+    background-position: center;
     padding-bottom: 50px;
 }
 .text-down {
@@ -55,8 +55,8 @@ p {
 .work {
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
-    background-position: center top;
+    background-size: cover;
+    background-position: center;
     text-align: center;
 }
 .work img {
@@ -68,8 +68,8 @@ p {
 .client {
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
-    background-position: center top;
+    background-size: cover;
+    background-position: center;
     text-align: center;
 }
 #sujon {
